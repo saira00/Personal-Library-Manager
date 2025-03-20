@@ -1,0 +1,30 @@
+[
+    {
+        "title": "coding ",
+        "author": "saira kanwal",
+        "year": "2025",
+        "genre": "coding",
+        "read": true
+    },
+    {
+        "title": "coding python ",
+        "author": "saira kanwal ",
+        "year": "2025",
+        "genre": "coding",
+        "read": true
+    },
+    {
+        "title": "typescript ",
+        "author": "saira ",
+        "year": "2024",
+        "genre": "coding",
+        "read": true
+    },
+    {
+        "title": "Next.js",
+        "author": "SK",
+        "year": "2024",
+        "genre": "coding",
+        "read": true
+    }
+]
